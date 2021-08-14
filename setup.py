@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gmocoin-backtest",
-    version="0.1.0",
+    version="0.1.1",
     description="gmocoin-backtest is a python library \
         for backtest with gmocoin fx btc trade technical \
             analysis on Python 3.7 and above.",
