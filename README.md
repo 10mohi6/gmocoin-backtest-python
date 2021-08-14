@@ -36,7 +36,7 @@ class MyBacktest(Backtest):
 
 MyBacktest(from_date="2021-07-15", to_date="2021-08-15").run()
 ```
-![basic.png](https://raw.githubusercontent.com/10mohi6/gmocoin-backtest-python/main/basic.png)
+![basic.png](https://raw.githubusercontent.com/10mohi6/gmocoin-backtest-python/main/tests/basic.png)
 
 ### advanced run
 ```python
@@ -79,7 +79,7 @@ pprint(bt.run(), sort_dicts=False)
  'stop loss': 0,
  'take profit': 0}
 ```
-![advanced.png](https://raw.githubusercontent.com/10mohi6/gmocoin-backtest-python/main/advanced.png)
+![advanced.png](https://raw.githubusercontent.com/10mohi6/gmocoin-backtest-python/main/tests/advanced.png)
 
 
 ## Supported indicators

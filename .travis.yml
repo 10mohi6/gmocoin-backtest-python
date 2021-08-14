@@ -14,7 +14,7 @@ install:
 
 # Run the unit test
 script:
-  - python -m pytest --cov=gmocoin_backtest
+  - python -m pytest --cov=gmocoin_backtest tests/
 
 # Push the results back to codecov
 after_success:
