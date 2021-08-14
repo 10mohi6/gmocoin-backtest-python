@@ -20,7 +20,6 @@ backtest data from [here](https://api.coin.z.com/data/trades/)
 ### basic run
 ```python
 from gmocoin_backtest import Backtest
-from pprint import pprint
 
 class MyBacktest(Backtest):
     def strategy(self):
@@ -35,8 +34,7 @@ class MyBacktest(Backtest):
             fast_ma.shift() >= slow_ma.shift()
         )
 
-bt = MyBacktest(from_date="2021-07-15", to_date="2021-08-15")
-pprint(bt.run(), sort_dicts=False)
+MyBacktest(from_date="2021-07-15", to_date="2021-08-15").run()
 ```
 ![basic.png](https://raw.githubusercontent.com/10mohi6/gmocoin-backtest-python/main/basic.png)
 
