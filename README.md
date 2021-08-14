@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/gmocoin-backtest)](https://pypi.org/project/gmocoin-backtest/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![codecov](https://codecov.io/gh/10mohi6/gmocoin-backtest-python/branch/main/graph/badge.svg?token=ZFgiyy2cc2)](undefined)
+[![codecov](https://codecov.io/gh/10mohi6/gmocoin-backtest-python/branch/main/graph/badge.svg?token=5U127JNHX9)](https://codecov.io/gh/10mohi6/gmocoin-backtest-python)
 [![Build Status](https://travis-ci.com/10mohi6/gmocoin-backtest-python.svg?branch=main)](https://travis-ci.com/10mohi6/gmocoin-backtest-python)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gmocoin-backtest)](https://pypi.org/project/gmocoin-backtest/)
 [![Downloads](https://pepy.tech/badge/gmocoin-backtest)](https://pepy.tech/project/gmocoin-backtest)
