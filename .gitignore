@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+.venv/
+.devcontainer/
+*.egg-info/
+dist/
+.coverage
+.pytest_cache/
+build/
+.vscode/
+.mypy_cache/
+data/
+*.sqlite3
+Dockerfile
+docker-compose.yml
+register.py
+setup.cfg
